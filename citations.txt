@@ -1,0 +1,7 @@
+@InProceedings{Heymann2007,
+  title={SIFT Implementation and Optimization for General-Purpose GPU},
+  author={Heymann, S and M{\"u}ller, K and Smolic, A and Fr{\"o}hlich, B and Wiegand, T}
+  booktitle={Winter School of Computer Graphics (WSCG)},
+  organization={EUROGRAPHICS},
+  year={2007}
+}
