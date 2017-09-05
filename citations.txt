@@ -1,4 +1,4 @@
-@InProceedings{Heymann2007,
+﻿@InProceedings{Heymann2007,
   title={SIFT Implementation and Optimization for General-Purpose GPU},
   author={Heymann, S and M{\"u}ller, K and Smolic, A and Fr{\"o}hlich, B and Wiegand, T}
   booktitle={Winter School of Computer Graphics (WSCG)},
@@ -548,3 +548,84 @@
   Url                      = {http://www.sciencedirect.com/science/article/pii/S1077314216302016}
 }
 
+@Article{Bisdom2014,
+
+  Title                    = {Calibrating discrete fracture-network models with a carbonate three-dimensional outcrop fracture network: Implications for naturally fractured reservoir modeling},
+
+  Author                   = {Bisdom, K and Gauthier, BDM and Bertotti, G and Hardebol, NJ},
+
+  Journal                  = {AAPG bulletin},
+
+  Year                     = {2014},
+
+  Number                   = {7},
+
+  Pages                    = {1351--1376},
+
+  Volume                   = {98},
+
+
+  Owner                    = {christian},
+
+  Publisher                = {American Association of Petroleum Geologists},
+
+  Timestamp                = {2017.09.03}
+
+}
+
+
+
+@Article{Lamarche2012,
+  Title                    = {Relationships between fracture patterns, geodynamics and mechanical stratigraphy in carbonates (South-East Basin, France)},
+  Author                   = {Lamarche, Juliette and Lavenu, Arthur PC and Gauthier, Bertrand DM and Guglielmi, Yves and Jayet, Oc{\'e}ane},
+
+  Journal                  = {Tectonophysics},
+  Year                     = {2012},
+  Pages                    = {231--245},
+  Volume                   = {581},
+
+  Owner                    = {christian},
+  Publisher                = {Elsevier},
+  Timestamp                = {2017.09.03}
+}
+
+@Article{Senger2015,
+  Title                    = {CO2 storage resource estimates in unconventional reservoirs: insights from a pilot-sized storage site in Svalbard, Arctic Norway},
+  Author                   = {Senger, Kim and Tveranger, Jan and Braathen, Alvar and Olaussen, Snorre and Ogata, Kei and Larsen, Leif},
+  Journal                  = {Environmental Earth Sciences},
+  Year                     = {2015},
+
+  Month                    = {Apr},
+  Number                   = {8},
+  Pages                    = {3987--4009},
+  Volume                   = {73},
+
+  Abstract                 = {Storage capacity is a key aspect when validating potential CO2 sequestration sites. Most CO2 storage projects, for obvious reasons, target conventional aquifers (e.g., saline aquifers, depleted hydrocarbon fields) with good reservoir properties and ample subsurface data. However, non-geological factors, such as proximity to the CO2 source, may require storing CO2 in geologically ``less-than-ideal'' sites. We here present a first-order CO2 storage resource estimate of such an unconventional storage unit, a naturally fractured, compartmentalized and underpressured siliciclastic aquifer located at 670--1,000 m below Longyearbyen, Arctic Norway. Water injection tests confirm the injectivity of the reservoir. Capacity calculations, based on the US DOE guidelines for CO2 storage resource estimation, were implemented in a stochastic volumetric workflow. All available data were used to specify input parameters and their probability distributions. The areal extent of the compartmentalized reservoir is poorly constrained, encouraging a scenario-based approach. Other high-impact parameters influencing storage resource estimates include CO2 saturation, CO2 density and the storage efficiency factor. The hydrodynamic effects of storing CO2 in a compartmentalized aquifer are accounted for by calculating probable storage efficiency factors (0.04--0.79 {\%}) in a fully closed system. The results are ultimately linked to the chosen scenario, with two orders of magnitude difference between scenarios. The fracture network contributes with up to 2 {\%} to the final volumes. The derived workflow validates CO2 storage sites based on initial feasibility assessments, and may be applied to aid decision making at other unconventional CO2 storage sites with significant data uncertainty.},
+  Day                      = {01},
+  Doi                      = {10.1007/s12665-014-3684-9},
+  ISSN                     = {1866-6299},
+  Owner                    = {christian},
+  Timestamp                = {2017.09.05},
+  Url                      = {https://doi.org/10.1007/s12665-014-3684-9}
+}
+
+@InProceedings{Lamarche2017,
+  Title                    = {Characterization of fracture corridors from digital outcrop by combining automatic detection approaches with field analysis},
+  Author                   = {Lamarche, J and Viseur, S and Chatal{\'e}e, S and Bachtarzi, N and Fleury, J},
+  Booktitle                = {79th EAGE Conference and Exhibition 2017-Workshops},
+  Year                     = {2017},
+
+  Owner                    = {christian},
+  Timestamp                = {2017.09.05}
+}
+
+@InProceedings{Dreyer1993,
+  Title                    = {Sedimentary architecture of field analogues for reservoir information ({SAFARI}): a case study of the fluvial Escanilla Formation, Spanish Pyrenees},
+  Author                   = {Dreyer, T. and F{\"a}lt, L.-M. and H{\o}y, T. and Knarud, R. and Cuevas, J.-L. and others},
+  Booktitle                = {{The Geological Modeling of Hydrocarbon Reservoirs and Outcrop Analogs}},
+  Year                     = {1993},
+  Organization             = {International Association of Sedimentologists -- Special Publications},
+  Pages                    = {57--80},
+  Publisher                = {Wiley Online Library},
+  Volume                   = {15}
+}
