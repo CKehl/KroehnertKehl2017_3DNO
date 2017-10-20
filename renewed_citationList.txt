@@ -1,0 +1,306 @@
+@InProceedings{Baboud2011,
+  Title                    = {Automatic photo-to-terrain alignment for the annotation of mountain pictures},
+  Author                   = {Baboud, Lionel and {\v{C}}ad{\'\i}k, Martin and Eisemann, Elmar and Seidel, Hans-Peter},
+  Booktitle                = {Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {41--48},
+
+  Owner                    = {christian},
+  Timestamp                = {2017.09.04}
+}
+
+@InCollection{Bodensteiner2012,
+  Title                    = {Accurate Single Image Multi-modal Camera Pose Estimation},
+  Author                   = {Bodensteiner, Christoph and Hebel, Marcus and Arens, Michael},
+  Booktitle                = {Trends and Topics in Computer Vision},
+  Publisher                = {Springer Berlin Heidelberg},
+  Year                     = {2012},
+  Editor                   = {Kutulakos, KiriakosN.},
+  Pages                    = {296-309},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {6554},
+
+  Doi                      = {10.1007/978-3-642-35740-4_23},
+  ISBN                     = {978-3-642-35739-8},
+  Keywords                 = {Multi-Modal Registration; Pose Estimation; Multi-Modal 2D/3D Correspondences; Self-Similarity Distance Measure},
+  Language                 = {English},
+  Owner                    = {christian},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://dx.doi.org/10.1007/978-3-642-35740-4_23}
+}
+
+@Article{Lepetit2009,
+  Title                    = {{EPnP: An Accurate O(n) Solution to the PnP Problem}},
+  Author                   = {Lepetit, Vincent and Moreno-Noguer, Francesc and Fua, Pascal},
+  Journal                  = {International Journal of Computer Vision},
+  Year                     = {2009},
+  Number                   = {2},
+  Pages                    = {155-166},
+  Volume                   = {81},
+
+  Doi                      = {10.1007/s11263-008-0152-6},
+  ISSN                     = {0920-5691},
+  Keywords                 = {Pose estimation; Perspective-n-Point; Absolute orientation},
+  Language                 = {English},
+  Owner                    = {christian},
+  Publisher                = {Springer US},
+  Timestamp                = {2015.08.25},
+  Url                      = {http://dx.doi.org/10.1007/s11263-008-0152-6}
+}
+
+@Article{Li2012,
+  Title                    = {A Robust O(n) Solution to the Perspective-n-Point Problem},
+  Author                   = {Shiqi Li and Chi Xu and Ming Xie},
+  Journal                  = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  Year                     = {2012},
+  Number                   = {7},
+  Pages                    = {1444-1450},
+  Volume                   = {34},
+
+  Address                  = {Los Alamitos, CA, USA},
+  Doi                      = {http://doi.ieeecomputersociety.org/10.1109/TPAMI.2012.41},
+  ISSN                     = {0162-8828},
+  Owner                    = {christian},
+  Publisher                = {IEEE Computer Society},
+  Timestamp                = {2015.10.16}
+}
+
+@Book{Madsen2004,
+  Title                    = {Methods for non-linear least squares problems},
+  Author                   = {Madsen, Kaj and Nielsen, Hans Bruun and Tingleff, Ole},
+  Publisher                = {Denmark Technical University (DTU)},
+  Year                     = {2004},
+  Edition                  = {2}
+}
+
+@InProceedings{Nuernberger2016,
+  Title                    = {Multi-view gesture annotations in image-based 3D reconstructed scenes},
+  Author                   = {Nuernberger, Benjamin and Lien, Kuo-Chin and Grinta, Lennon and Sweeney, Chris and Turk, Matthew and H{\"o}llerer, Tobias},
+  Booktitle                = {Proceedings of the 22nd ACM Conference on Virtual Reality Software and Technology},
+  Year                     = {2016},
+  Organization             = {ACM},
+  Pages                    = {129--138},
+
+  Owner                    = {christian},
+  Timestamp                = {2016.12.19}
+}
+
+@InProceedings{Sweeney2015,
+  Title                    = {Efficient Computation of Absolute Pose for Gravity-Aware Augmented Reality},
+  Author                   = {Sweeney, C. and Flynn, J. and Nuernberger, B. and Turk, M. and Hollerer, T.},
+  Booktitle                = {Mixed and Augmented Reality (ISMAR), 2015 IEEE International Symposium on},
+  Year                     = {2015},
+  Month                    = {Sept},
+  Pages                    = {19-24},
+
+  Abstract                 = {We propose a novel formulation for determining the absolute pose of a single or multi-camera system given a known vertical direction. The vertical direction may be easily obtained by detecting the vertical vanishing points with computer vision techniques, or with the aid of IMU sensor measurements from a smartphone. Our solver is general and able to compute absolute camera pose from two 2D-3D correspondences for single or multi-camera systems. We run several synthetic experiments that demonstrate our algorithm's improved robustness to image and IMU noise compared to the current state of the art. Additionally, we run an image localization experiment that demonstrates the accuracy of our algorithm in real-world scenarios. Finally, we show that our algorithm provides increased performance for real-time model-based tracking compared to solvers that do not utilize the vertical direction and show our algorithm in use with an augmented reality application running on a Google Tango tablet.},
+  Keywords                 = {augmented reality;real-time systems;smart phones;2D correspondences;3D correspondences;Google Tango tablet;IMU noise;absolute pose;computer vision techniques;gravity-aware augmented reality;image localization experiment;multicamera system;real-time model-based tracking;sensor measurements;smartphone;vertical direction;vertical vanishing points;Accuracy;Augmented reality;Cameras;Google;Gravity;Robustness;Three-dimensional displays;Absolute pose;gravity-aware augmented reality;inertial sensor;model-based tracking;multi-camera system},
+  Owner                    = {christian},
+  Timestamp                = {2016.02.08}
+}
+
+@InProceedings{Sottile2010,
+  Title                    = {Mutual Correspondences: An Hybrid Method for Image-to-geometry Registration.},
+  Author                   = {Sottile, Michele and Dellepiane, Matteo and Cignoni, Paolo and Scopigno, Roberto},
+  Booktitle                = {Eurographics Italian Chapter Conference},
+  Year                     = {2010},
+  Pages                    = {81--88}
+}
+
+InProceedings{Kehl2015a,
+  Title                    = {{Image-to-Geometry Registration on Mobile Devices - An Algorithmic Assessment}},
+  Author                   = {Kehl, Christian and Buckley, Simon J. and Howell, John A.},
+  Booktitle                = {{Proceedings of the 3D-NordOst workshop}},
+  Year                     = {2015},
+  Month                    = {December},
+  Note                     = {{ISBN 978-3-942709-14-9}},
+  Organization             = {GFaI},
+  Pages                    = {17--26},
+  Volume                   = {18},
+
+  Comment                  = {ISBN 978-3-942709-14-9},
+  Owner                    = {christian},
+  Timestamp                = {2015.11.09}
+}
+
+@Article{Kehl2016a,
+  Title                    = {{DIRECT IMAGE-TO-GEOMETRY REGISTRATION USING MOBILE SENSOR DATA}},
+  Author                   = {Kehl, C and Buckley, SJ and Gawthorpe, RL and Viola, I and Howell, JA},
+  Journal                  = {{ISPRS Annals of Photogrammetry, Remote Sensing \& Spatial Information Sciences}},
+  Year                     = {2016},
+  Number                   = {2},
+  Pages                    = {121--128},
+  Volume                   = {3},
+
+  Owner                    = {christian},
+  Timestamp                = {2016.06.26}
+}
+
+@Article{Kroehnert2016,
+  Title                    = {{Automatic Waterline Extraction from Smartphone Images}},
+  Author                   = {Kr{\"o}hnert, Melanie},
+  Journal                  = {ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  Year                     = {2016},
+  Pages                    = {857--863},
+
+  Owner                    = {christian},
+  Timestamp                = {2016.08.17}
+}
+
+@Article{Caron2014,
+  Title                    = {Direct model based visual tracking and pose estimation using mutual information },
+  Author                   = {Guillaume Caron and Amaury Dame and Eric Marchand},
+  Journal                  = {Image and Vision Computing },
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {54 - 63},
+  Volume                   = {32},
+
+  Abstract                 = {Abstract This paper deals with model-based pose estimation (or camera localization). We propose a direct approach that takes into account the image as a whole. For this, we consider a similarity measure, the mutual information. Mutual information is a measure of the quantity of information shared by two signals (or two images in our case). Exploiting this measure allows our method to deal with different image modalities (real and synthetic). Furthermore, it handles occlusions and illumination changes. Results with synthetic (benchmark) and real image sequences, with static or mobile camera, demonstrate the robustness of the method and its ability to produce stable and precise pose estimations. },
+  Doi                      = {http://dx.doi.org/10.1016/j.imavis.2013.10.007},
+  ISSN                     = {0262-8856},
+  Keywords                 = {Tracking},
+  Owner                    = {christian},
+  Timestamp                = {2015.06.24},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0262885613001649}
+}
+
+@InCollection{Blum2013,
+  Title                    = {Smartphone sensor reliability for augmented reality applications},
+  Author                   = {Blum, Jeffrey R and Greencorn, Daniel G and Cooperstock, Jeremy R},
+  Booktitle                = {Mobile and Ubiquitous Systems: Computing, Networking, and Services},
+  Publisher                = {Springer},
+  Year                     = {2013},
+  Pages                    = {127--138}
+}
+
+@Article{Novakova2017,
+  Title                    = {Assessment of the precision of smart phones and tablets for measurement of planar orientations: A case study},
+  Author                   = {Lucie Novakova and Terry L. Pavlis},
+  Journal                  = {Journal of Structural Geology },
+  Year                     = {2017},
+  Pages                    = {93 - 103},
+  Volume                   = {97},
+
+  Abstract                 = {Abstract Although paper and pencil approaches to geological mapping continue, digital mapping tools are being increasing implemented in field geology. Of particular note is the use of an electronic compass/inclinometer built into tablets and smartphones for obtaining orientation data where an important question is the reliability of these digital devices relative to conventional, analogue compass/inclinometers. This paper deals with this question through detailed tests of two android devices: an Honor 3C smartphone and a Lenovo B8080-F tablet. In order to evaluate potential electronic noise effects the devices were tested in two modes, standard and airplane. Over 14,000 readings from the sensors were collected to evaluate the stability of the sensor's readings and showed that the magnetic sensor in the tablet was unacceptably unstable. Seven geological compass applications were installed on the Honor 3C smartphone and tested against the analogue Freiberg geological compass in a field experiment. During the experiment 25 fractures varying in azimuth and dip were measured using both devices. A high level of disagreement was observed with discrepancies as high as 80 degree with azimuthal errors dominant. Analysis of the time series in the data suggest the source of the problem was instability in the magnetic sensor for the smartphone, despite the fact the device passed the initial stability test. Although only two devices were studied these data indicate care must be taken to evaluate compass accuracy on these devices.},
+  Doi                      = {https://doi.org/10.1016/j.jsg.2017.02.015},
+  ISSN                     = {0191-8141},
+  Keywords                 = {Smartphone},
+  Owner                    = {christian},
+  Timestamp                = {2017.05.23},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0191814117300524}
+}
+
+@InProceedings{Wang2012,
+  Title                    = {Orientation-aware scene understanding for mobile cameras},
+  Author                   = {Wang, Jing and Schindler, Grant and Essa, Irfan},
+  Booktitle                = {Proceedings of the 2012 ACM Conference on Ubiquitous Computing},
+  Year                     = {2012},
+  Organization             = {ACM},
+  Pages                    = {260--269},
+
+  Owner                    = {christian},
+  Timestamp                = {2015.08.07}
+}
+
+@Article{Kehl2017a,
+  Title                    = {Automatic illumination-invariant image-to-geometry registration in outdoor environments},
+  Author                   = {Kehl, Christian and Buckley, Simon J and Viseur, Sophie and Gawthorpe, Robert L and Howell, John A},
+  Journal                  = {The Photogrammetric Record},
+  Year                     = {2017},
+
+  Month                    = {June},
+  Number                   = {158},
+  Pages                    = {93--118},
+  Volume                   = {32},
+
+  Owner                    = {christian},
+  Timestamp                = {2017.07.10}
+}
+
+@Article{Ligorio2013,
+  Title                    = {Extended Kalman filter-based methods for pose estimation using visual, inertial and magnetic sensors: Comparative analysis and performance evaluation},
+  Author                   = {Ligorio, Gabriele and Sabatini, Angelo Maria},
+  Journal                  = {Sensors},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {1919--1941},
+  Volume                   = {13},
+
+  Owner                    = {christian},
+  Publisher                = {Multidisciplinary Digital Publishing Institute},
+  Timestamp                = {2017.09.04}
+}
+
+@InProceedings{Khan2013,
+  Title                    = {Discriminative Color Descriptors},
+  Author                   = {Khan, Rahat and van de Weijer, Joost and Shahbaz Khan, Fahad and Muselet, Damien and Ducottet, Christophe and Barat, Cecile},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2013},
+  Month                    = {June},
+
+  Owner                    = {christian},
+  Timestamp                = {2016.02.04}
+}
+
+@InProceedings{Garcia2015,
+  Title                    = {Textured Splat-based Point Clouds for Rendering in Handheld Devices},
+  Author                   = {Garc\'{i}a, Sergio and Pag\'{e}s, Rafael and Berj\'{o}n, Daniel and Mor\'{a}n, Francisco},
+  Booktitle                = {Proceedings of the 20th International Conference on 3D Web Technology},
+  Year                     = {2015},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {227--230},
+  Publisher                = {ACM},
+  Series                   = {Web3D '15},
+
+  Acmid                    = {2782779},
+  ISBN                     = {978-1-4503-3647-5},
+  Keywords                 = {3D point cloud, OpenGL ES, mobile devices, simplification, splatting, texturing},
+  Location                 = {Heraklion, Crete, Greece},
+  Numpages                 = {4},
+  Owner                    = {christian},
+  Timestamp                = {2015.06.21},
+  Url                      = {http://doi.acm.org/10.1145/2775292.2782779}
+}
+
+@InProceedings{Agus2017,
+  Title                    = {{Mobile Graphics}},
+  Author                   = {Agus, Marco and Gobbetti, Enrico and Marton, Fabio and Pintore, Giovanni and V\'{a}zquez, Pere-Pau},
+  Booktitle                = {EuroGraphics 2017 - Tutorials},
+  Year                     = {2017},
+  Editor                   = {Adrien Bousseau and Diego Gutierrez},
+  Publisher                = {The Eurographics Association},
+
+  Doi                      = {10.2312/egt.20171032},
+  ISSN                     = {1017-4656},
+  Owner                    = {christian},
+  Timestamp                = {2017.05.23}
+}
+
+@InProceedings{Fritsch2015,
+  Title                    = {Photogrammetric {3D} reconstruction using mobile imaging},
+  Author                   = {Fritsch, Dieter and Syll, Miguel},
+  Booktitle                = {{Proc. Mobile Devices and Multimedia: Enabling Technologies, Algorithms, and Applications}},
+  Year                     = {2015},
+  Pages                    = {94110C-94110C-15},
+  Volume                   = {9411},
+
+  Abstract                 = {In our paper we demonstrate the development of an Android Application (AndroidSfM) for photogrammetric 3D reconstruction that works on smartphones and tablets likewise. The photos are taken with mobile devices, and can thereafter directly be calibrated using standard calibration algorithms of photogrammetry and computer vision, on that device. Due to still limited computing resources on mobile devices, a client-server handshake using Dropbox transfers the photos to the sever to run AndroidSfM for the pose estimation of all photos by Structure-from-Motion and, thereafter, uses the oriented bunch of photos for dense point cloud estimation by dense image matching algorithms. The result is transferred back to the mobile device for visualization and ad-hoc on-screen measurements.},
+  Doi                      = {10.1117/12.2083332},
+  Journal                  = {Proc. SPIE},
+  Owner                    = {AndroidSfM},
+  Url                      = {http://dx.doi.org/10.1117/12.2083332}
+}
+
+@Article{Howell2014,
+  Title                    = {The application of outcrop analogues in geological modelling: a review, present status and future outlook},
+  Author                   = {Howell, John A and Martinius, Allard W and Good, Timothy R},
+  Journal                  = {Geological Society, London, Special Publications},
+  Year                     = {2014},
+  Pages                    = {SP387--12},
+  Volume                   = {387},
+
+  Publisher                = {Geological Society of London}
+}

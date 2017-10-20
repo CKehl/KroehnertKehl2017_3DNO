@@ -150,10 +150,7 @@
   Author                   = {Madsen, Kaj and Nielsen, Hans Bruun and Tingleff, Ole},
   Publisher                = {Denmark Technical University (DTU)},
   Year                     = {2004},
-  Edition                  = {2},
-
-  Owner                    = {christian},
-  Timestamp                = {2017.01.09}
+  Edition                  = {2}
 }
 
 @Article{Gauglitz2014,
